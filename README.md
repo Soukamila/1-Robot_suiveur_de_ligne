@@ -11,6 +11,7 @@ Programmer le robot virtuel pour qu'il suive automatiquement une ligne tracée a
 - **Robot virtuel VEX VR** : le robot simulé dans le navigateur.
 - **Capteur Down Eye** : capteur dirigé vers le sol qui détecte la couleur sous le robot, donc la ligne.
 - **Terrain (Playground)** : Line detector.
+- (Terrain adapte non trouvé ) 
 - **Programmation par blocs** : catégories Events, Control, Sensing et Motion.
 
 ## Fonctionnement
@@ -41,9 +42,8 @@ end forever
 
 ## Résultats obtenus
 
-- Le robot suit la ligne : [oui, sur tout le parcours / oui, avec quelques sorties de ligne].
-- Réglages finaux : rotation de [5] degrés, avance de [10] mm.
-- Problèmes rencontrés : [ex. le robot sortait de la ligne dans les virages].
+<img width="477" height="417" alt="image" src="https://github.com/user-attachments/assets/b5fac229-2c55-4ce7-86e4-43d905df214c" />
+
 
 
 
