@@ -44,6 +44,8 @@ end forever
 
 <img width="477" height="417" alt="image" src="https://github.com/user-attachments/assets/b5fac229-2c55-4ce7-86e4-43d905df214c" />
 
+Le robot suit les lignes mais il n'y a pas de terrains adapte donc devoir en suspension
+
 
 
 
